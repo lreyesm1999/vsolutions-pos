@@ -2,7 +2,7 @@
 
 ## About The Project
 
-<img src="https://github.com/ionic-team/ionifits/raw/main/ionifits-ios-screenshot.png" width="350" alt="Ionifits screenshot on iOS" />
+<img src="" width="350" alt="VSolutions-POS screenshot on iOS" />
 
 VSolutions is a workshop specialized in visual solutions located in Havana, Cuba. Among its main products and services, the manufacture of ophthalmological products, glasses, sunglasses, protective glasses, repair of frames and lens tinting stands out.
 
