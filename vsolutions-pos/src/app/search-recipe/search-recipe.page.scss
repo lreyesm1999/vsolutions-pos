@@ -1,0 +1,27 @@
+ion-input,
+ion-select {
+  border: 2px solid rgba(var(--ion-color-medium-rgb), 0.2);
+  background: rgba(var(--ion-color-light-rgb), 0.05);
+  color: rgba(var(--ion-color-dark-rgb), 0.6);
+  --padding-start: 12px;
+  --padding-end: 12px;
+}
+
+ion-grid > ion-row {
+  border-radius: 6px;
+  background: rgba(var(--ion-color-dark-rgb), 0.05);
+  border: 2px solid rgba(var(--ion-color-medium-rgb), 0.2);
+  color: rgba(var(--ion-color-dark-rgb), 0.6);
+  --padding-start: 12px;
+  --padding-end: 12px;
+}
+
+.icon-only {
+  height: 32px;
+  width: 32px;
+  --border-radius: 32px;
+  --padding-bottom: 0px;
+  --padding-end: 0px;
+  --padding-start: 0px;
+  --padding-top: 0px;
+}
